@@ -3,8 +3,6 @@ layout: post
 title: A Guide to Mastodon for Non-Programmers
 ---
 
-# A Guide to Mastodon for Non-Programmers
-
 ## What is Mastodon?
 
 In the simplest terms, Mastodon is a Twitter alternative. There's a lot of other stuff about it, that I'll do my best to explain later, but if you want to try and use Mastodon, all you need to do is sign up for an account on [mastodon.social](https://mastodon.social).  You can use Mastodon just like twitter, but there are a few differences worth noting:
