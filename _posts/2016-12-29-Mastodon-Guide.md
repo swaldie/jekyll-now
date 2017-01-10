@@ -37,6 +37,10 @@ A trend among the Mastodon community is to self-censor certain things that peopl
 
 Mastodon is still a fledgling community, so it's very easy to join, miss the public timeline, glance around a bit, then say "no one's here" and leave forever. So that's my first recommendation **Check out the public timeline!** Once you've done that, you'll probably want to dive into the community.  Here are some personal recommendations for things to check out:
 
+### A note about ROT13 (or: Why do I keep seeing people post gibberish?)
+
+Right now a popular trend among the Mastodon community is to encode posts that are personal, NSFW or potentially triggering with ROT13 ciphers so that people don't unintentionally read them.  If you see a post like this, you can read it easily by pasting the content into [ROT13.com](http://rot13.com)
+
 ### Hashtags
 * #Mastodev - For programmers
 * #Mastoart - For artists
