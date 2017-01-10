@@ -29,6 +29,10 @@ In addition to the above, Mastodon is open source, which means that the code is 
 
 Right now, the best way to interact with Mastodon on both browser and mobile is through the website.  Currently, a number of iOS and Android apps are in production.  However, if you want a link to the app on the home screen of your mobile device, you can follow the instructions [here](http://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/).
 
+## Why do I see all this jumbled text?
+
+A trend among the Mastodon community is to self-censor certain things that people might find sensitive to read using ROT13.  Paste these toots into [ROT13.com](http://rot13.com) to decrypt them, but beware the content warnings because a lot of times the topics are NSFW or can harm people with mental health issues pertaining to them.
+
 ## What do I do on Mastodon?
 
 Mastodon is still a fledgling community, so it's very easy to join, miss the public timeline, glance around a bit, then say "no one's here" and leave forever. So that's my first recommendation **Check out the public timeline!** Once you've done that, you'll probably want to dive into the community.  Here are some personal recommendations for things to check out:
