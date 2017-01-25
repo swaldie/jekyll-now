@@ -33,13 +33,13 @@ Right now, the best way to interact with Mastodon on both browser and mobile is 
 
 A trend among the Mastodon community is to self-censor certain things that people might find sensitive to read using ROT13.  Paste these toots into [ROT13.com](http://rot13.com) to decrypt them, but beware the content warnings because a lot of times the topics are NSFW or can harm people with mental health issues pertaining to them.
 
+## One thing to note about the public timeline:
+
+Right now the public timeline shows **all** instances that Mastodon.social is connected to, which means that sometimes you will see gross content.  Sometimes trolls will hop on to Mastodon and try to be dicks.  They are usually removed from the public timeline quickly, but if you're seeing content you don't want to, the block button is your friend. 
+
 ## What do I do on Mastodon?
 
 Mastodon is still a fledgling community, so it's very easy to join, miss the public timeline, glance around a bit, then say "no one's here" and leave forever. So that's my first recommendation **Check out the public timeline!** Once you've done that, you'll probably want to dive into the community.  Here are some personal recommendations for things to check out:
-
-### A note about ROT13 (or: Why do I keep seeing people post gibberish?)
-
-Right now a popular trend among the Mastodon community is to encode posts that are personal, NSFW or potentially triggering with ROT13 ciphers so that people don't unintentionally read them.  If you see a post like this, you can read it easily by pasting the content into [ROT13.com](http://rot13.com)
 
 ### Hashtags
 * #Mastodev - For programmers
