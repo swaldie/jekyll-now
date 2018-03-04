@@ -25,11 +25,11 @@ Mastodon is also largely compatible with GNU Social.  GNU Social was an open sou
 
 In addition to the above, Mastodon is open source, which means that the code is available to everyone to contribute to and read.  That means you'll always know (or be able to learn) exactly what's being done with your data.
 
-## How do I use Mastodon?
+## How do I use Mastodon on mobile?
 
 Right now, the best way to interact with Mastodon on both browser and mobile is through the website.  Currently, a number of iOS and Android apps are in production.  However, if you want a link to the app on the home screen of your mobile device, you can follow the instructions [here](http://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/).
 
-## Why do I see all this jumbled text?
+## How does ?
 
 A trend among the Mastodon community is to self-censor certain things that people might find sensitive to read using ROT13.  Paste these toots into [ROT13.com](http://rot13.com) to decrypt them, but beware the content warnings because a lot of times the topics are NSFW or can harm people with mental health issues pertaining to them.
 
